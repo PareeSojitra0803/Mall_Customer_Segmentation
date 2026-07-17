@@ -176,7 +176,7 @@ Mall_Customer_Segmentation/
 
 Video Link:
 
-> *(Add your Google Drive / YouTube video link here.)*
+> https://drive.google.com/file/d/1ZDCRkCssvm-XlOP5HpPy2fjsg7ZrPsbv/view?usp=sharing
 
 ---
 
